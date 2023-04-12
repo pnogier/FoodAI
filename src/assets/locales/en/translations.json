@@ -1,0 +1,13 @@
+{
+    "screens.home.header.title": "Not sure what to cook tonight ?",
+    "screens.home.generate-random-recipe.title": "Would you like to get a recipe suggestion ?",
+    "screens.home.generate-random-recipe.usage-warning.caption": "You can generate 3 free recipes",
+    "screens.home.generate-random-recipe.button": "Generate recipe",
+    "screens.home.search-recipe.title": "Would you like to search for a specific recipe ?",
+    "screens.home.search-recipe.usage-warning.caption": "You can search 3 free recipes",
+    "screens.home.search-recipe.button": "Search",
+    "screens.home.generate-recipe-from-country.title": "Would you like to get a recipe suggestion form a specific country ?",
+    "screens.home.generate-recipe-from-country.button": "Generate recipe",
+    "screens.home.generate-recipe-from-pantry.title": "Would you like to get a recipe suggestion based on what you have in your pantry or fridge ?",
+    "screens.home.generate-recipe-from-pantry.button": "Generate recipe"
+}
